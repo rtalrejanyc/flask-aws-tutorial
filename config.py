@@ -3,7 +3,7 @@
 # format: (user):(password)@(db_identifier).amazonaws.com:3306/(db_name)
 
 # SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://flaskdemo:flaskdemo@flaskdemo.cwsaehb7ywmi.us-east-1.rds.amazonaws.com:3306/flaskdemo'
-SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://flask:flasktestpw@flasktest.c3mi9aixaveh.us-east-2.rds.amazonaws.com:3306/flasktest'
+SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://flask:flasktestpw@flasktest.c3mi9aixaveh.us-east-2.rds.amazonaws.com:3306/flasktestdb'
 
 # Uncomment the line below if you want to work with a local DB
 # SQLALCHEMY_DATABASE_URI = 'sqlite:///test.db'
